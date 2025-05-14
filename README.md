@@ -56,6 +56,7 @@
 
 | Project | Description | Tech Stack |
 |---------|------------|------------|
+| [Weather Forecast App](https://github.com/YYYanZZZ/Weather-Forecast-App) | Beautiful weather application with multi-city support, life indices, and real-time updates | Java, Android, SQLite, APIs |
 | [Titanic Survival Prediction](https://github.com/YYYanZZZ/titanic-survival-prediction) | Machine learning project that predicts survival on the Titanic. Achieved a Kaggle score of 0.79665. | Python, Pandas, Scikit-learn |
 | [Project Cost Estimation Tool](https://github.com/YYYanZZZ/ProjectCost---Project-Cost-Estimation-Tool) | Software project cost estimation platform that helps estimate software development costs. | Java (Spring Boot), JavaScript, CSS |
 | [Testing Alliance Platform](https://github.com/YYYanZZZ/Testing-Alliance-Platform) | Modern login/registration system, featuring cool animation effects and user management functions | Vue 3, Spring Boot, MySQL, JWT |
@@ -117,6 +118,7 @@ When I'm not coding, I enjoy:
 
 | 项目 | 描述 | 技术栈 |
 |---------|------------|------------|
+| [天气预报应用](https://github.com/YYYanZZZ/Weather-Forecast-App) | 美观的天气应用，支持多城市、生活指数和实时更新 | Java, Android, SQLite, APIs |
 | [泰坦尼克号生存预测](https://github.com/YYYanZZZ/titanic-survival-prediction) | 机器学习项目，预测泰坦尼克号乘客的生存情况。在Kaggle评分系统上获得0.79665的准确率。 | Python, Pandas, Scikit-learn |
 | [项目成本估算工具](https://github.com/YYYanZZZ/ProjectCost---Project-Cost-Estimation-Tool) | 软件项目成本估算平台，帮助估算软件开发成本。 | Java (Spring Boot), JavaScript, CSS |
 | [测盟汇](https://github.com/YYYanZZZ/Testing-Alliance-Platform) | 一个基于 Vue 3 和 Spring Boot 构建的现代化登录/注册系统，具有酷炫的动画效果和完整的用户管理功能。 | Vue 3, Spring Boot, MySQL, JWT |
