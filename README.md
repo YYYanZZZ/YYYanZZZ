@@ -56,11 +56,34 @@
 
 | Project | Description | Tech Stack |
 |---------|------------|------------|
-| [Project 1](https://github.com/YOUR_USERNAME/project1) | Frontend web application | Vue.js, JavaScript |
-| [Project 2](https://github.com/YOUR_USERNAME/project2) | Mobile app | Flutter, Dart |
-| [Project 3](https://github.com/YOUR_USERNAME/project3) | AI research project | Python, PyTorch |
-| [Project 4](https://github.com/YOUR_USERNAME/project4) | Embedded systems project | STM32, C |
-| [Project 5](https://github.com/YOUR_USERNAME/project5) | Backend application | Java, Spring Boot |
+| [Project 1](https://github.com/YYYanZZZ/project1) | Frontend web application | Vue.js, JavaScript |
+| [Project 2](https://github.com/YYYanZZZ/project2) | Mobile app | Flutter, Dart |
+| [Project 3](https://github.com/YYYanZZZ/project3) | AI research project | Python, PyTorch |
+| [Project 4](https://github.com/YYYanZZZ/project4) | Embedded systems project | STM32, C |
+| [Project 5](https://github.com/YYYanZZZ/project5) | Backend application | Java, Spring Boot |
+
+## 📸 Photography Gallery
+
+<div align="center">
+  <p>Here are some of my favorite shots that showcase my photography hobby:</p>
+  
+  <!-- Replace the URLs below with links to your actual photos -->
+  <img src="https://via.placeholder.com/250x150?text=Photo+1" width="250" alt="Photography Sample 1" />
+  
+  
+</div>
+
+## 🚴 Cycling Adventures
+
+<div align="center">
+  <p>Cycling is one of my biggest passions outside of coding:</p>
+  
+  <!-- Replace the URLs below with links to your actual cycling photos -->
+  <img src="https://via.placeholder.com/250x150?text=Cycling+Trip+1" width="250" alt="Cycling Adventure 1" />
+  
+  
+  <p><i>I've cycled up to 100 kilometers across various terrains.</i></p>
+</div>
 
 ## 🌟 Interests
 
@@ -69,6 +92,8 @@ When I'm not coding, I enjoy:
 - 📷 Photography
 - 📚 Reading novels
 - 🏀 Playing basketball
+- 💪 Fitness and working out
+- 🔮 Studying Chinese astrology and birth charts (BaZi)
 
 <h2 id="chinese">🇨🇳 中文</h2>
 
@@ -112,11 +137,34 @@ When I'm not coding, I enjoy:
 
 | 项目 | 描述 | 技术栈 |
 |---------|------------|------------|
-| [项目 1](https://github.com/YOUR_USERNAME/project1) | 前端网页应用 | Vue.js, JavaScript |
-| [项目 2](https://github.com/YOUR_USERNAME/project2) | 移动应用 | Flutter, Dart |
-| [项目 3](https://github.com/YOUR_USERNAME/project3) | 人工智能研究项目 | Python, PyTorch |
-| [项目 4](https://github.com/YOUR_USERNAME/project4) | 嵌入式系统项目 | STM32, C |
-| [项目 5](https://github.com/YOUR_USERNAME/project5) | 后端应用 | Java, Spring Boot |
+| [项目 1](https://github.com/YYYanZZZ/project1) | 前端网页应用 | Vue.js, JavaScript |
+| [项目 2](https://github.com/YYYanZZZ/project2) | 移动应用 | Flutter, Dart |
+| [项目 3](https://github.com/YYYanZZZ/project3) | 人工智能研究项目 | Python, PyTorch |
+| [项目 4](https://github.com/YYYanZZZ/project4) | 嵌入式系统项目 | STM32, C |
+| [项目 5](https://github.com/YYYanZZZ/project5) | 后端应用 | Java, Spring Boot |
+
+## 📸 摄影作品集
+
+<div align="center">
+  <p>这里展示了我最得意的摄影作品：</p>
+  
+  <!-- 用您实际照片的链接替换下面的URL -->
+  <img src="https://via.placeholder.com/250x150?text=摄影作品+1" width="250" alt="摄影作品 1" />
+  
+  
+</div>
+
+## 🚴 骑行记录
+
+<div align="center">
+  <p>骑行是我编程之外最大的爱好之一：</p>
+  
+  <!-- 用您实际骑行照片的链接替换下面的URL -->
+  <img src="https://via.placeholder.com/250x150?text=骑行记录+1" width="250" alt="骑行记录 1" />
+  
+  
+  <p><i>我最远骑行100公里，跨越各种地形。</i></p>
+</div>
 
 ## 🌟 兴趣爱好
 
@@ -125,12 +173,14 @@ When I'm not coding, I enjoy:
 - 📷 摄影
 - 📚 阅读小说
 - 🏀 打篮球
+- 💪 健身锻炼
+- 🔮 研究生辰八字
 
 ## 🔗 联系方式
 
 <p align="center">
   <a href="https://github.com/YYYanZZZ"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="23789712@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:23789712@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <div align="center">
@@ -143,4 +193,4 @@ When I'm not coding, I enjoy:
   
 </div>
 
-![访问计数器](https://profile-counter.glitch.me/YOUR_USERNAME/count.svg) 
+![访问计数器](https://profile-counter.glitch.me/YYYanZZZ/count.svg) 
