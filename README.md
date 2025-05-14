@@ -62,28 +62,6 @@
 | [Project 4](https://github.com/YYYanZZZ/project4) | Embedded systems project | STM32, C |
 | [Project 5](https://github.com/YYYanZZZ/project5) | Backend application | Java, Spring Boot |
 
-## 📸 Photography Gallery
-
-<div align="center">
-  <p>Here are some of my favorite shots that showcase my photography hobby:</p>
-  
-  <!-- Replace the URLs below with links to your actual photos -->
-  <img src="https://via.placeholder.com/250x150?text=Photo+1" width="250" alt="Photography Sample 1" />
-  
-  
-</div>
-
-## 🚴 Cycling Adventures
-
-<div align="center">
-  <p>Cycling is one of my biggest passions outside of coding:</p>
-  
-  <!-- Replace the URLs below with links to your actual cycling photos -->
-  <img src="https://via.placeholder.com/250x150?text=Cycling+Trip+1" width="250" alt="Cycling Adventure 1" />
-  
-  
-  <p><i>I've cycled up to 100 kilometers across various terrains.</i></p>
-</div>
 
 ## 🌟 Interests
 
@@ -149,7 +127,7 @@ When I'm not coding, I enjoy:
   <p>这里展示了我最得意的摄影作品：</p>
   
   <!-- 用您实际照片的链接替换下面的URL -->
-  <img src="https://via.placeholder.com/250x150?text=摄影作品+1" width="250" alt="摄影作品 1" />
+  <img src="bird.jpg" width="250" alt="摄影作品 1" />
   
   
 </div>
@@ -160,7 +138,7 @@ When I'm not coding, I enjoy:
   <p>骑行是我编程之外最大的爱好之一：</p>
   
   <!-- 用您实际骑行照片的链接替换下面的URL -->
-  <img src="https://via.placeholder.com/250x150?text=骑行记录+1" width="250" alt="骑行记录 1" />
+  <img src="read.jpg" width="250" alt="骑行记录 1" />
   
   
   <p><i>我最远骑行100公里，跨越各种地形。</i></p>
