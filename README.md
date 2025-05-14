@@ -56,12 +56,32 @@
 
 | Project | Description | Tech Stack |
 |---------|------------|------------|
-| [Project 1](https://github.com/YYYanZZZ/project1) | Frontend web application | Vue.js, JavaScript |
-| [Project 2](https://github.com/YYYanZZZ/project2) | Mobile app | Flutter, Dart |
-| [Project 3](https://github.com/YYYanZZZ/project3) | AI research project | Python, PyTorch |
-| [Project 4](https://github.com/YYYanZZZ/project4) | Embedded systems project | STM32, C |
-| [Project 5](https://github.com/YYYanZZZ/project5) | Backend application | Java, Spring Boot |
+| [Titanic Survival Prediction](https://github.com/YYYanZZZ/titanic-survival-prediction) | Machine learning project that predicts survival on the Titanic. Achieved a Kaggle score of 0.79665. | Python, Pandas, Scikit-learn |
+| [Project Cost Estimation Tool](https://github.com/YYYanZZZ/ProjectCost---Project-Cost-Estimation-Tool) | Software project cost estimation platform that helps estimate software development costs. | Java (Spring Boot), JavaScript, CSS |
 
+
+## 📸 Photography Gallery
+
+<div align="center">
+  <p>Here are some of my favorite shots that showcase my photography hobby:</p>
+  
+  <!-- Replace the URLs below with links to your actual photos -->
+  <img src="https://via.placeholder.com/250x150?text=Photo+1" width="250" alt="Photography Sample 1" />
+  
+  
+</div>
+
+## 🚴 Cycling Adventures
+
+<div align="center">
+  <p>Cycling is one of my biggest passions outside of coding:</p>
+  
+  <!-- Replace the URLs below with links to your actual cycling photos -->
+  <img src="https://via.placeholder.com/250x150?text=Cycling+Trip+1" width="250" alt="Cycling Adventure 1" />
+  
+  
+  <p><i>I've cycled up to 100 kilometers across various terrains.</i></p>
+</div>
 
 ## 🌟 Interests
 
@@ -115,11 +135,8 @@ When I'm not coding, I enjoy:
 
 | 项目 | 描述 | 技术栈 |
 |---------|------------|------------|
-| [项目 1](https://github.com/YYYanZZZ/project1) | 前端网页应用 | Vue.js, JavaScript |
-| [项目 2](https://github.com/YYYanZZZ/project2) | 移动应用 | Flutter, Dart |
-| [项目 3](https://github.com/YYYanZZZ/project3) | 人工智能研究项目 | Python, PyTorch |
-| [项目 4](https://github.com/YYYanZZZ/project4) | 嵌入式系统项目 | STM32, C |
-| [项目 5](https://github.com/YYYanZZZ/project5) | 后端应用 | Java, Spring Boot |
+| [泰坦尼克号生存预测](https://github.com/YYYanZZZ/titanic-survival-prediction) | 机器学习项目，预测泰坦尼克号乘客的生存情况。在Kaggle评分系统上获得0.79665的准确率。 | Python, Pandas, Scikit-learn |
+| [项目成本估算工具](https://github.com/YYYanZZZ/ProjectCost---Project-Cost-Estimation-Tool) | 软件项目成本估算平台，帮助估算软件开发成本。 | Java (Spring Boot), JavaScript, CSS |
 
 ## 📸 摄影作品集
 
@@ -127,7 +144,7 @@ When I'm not coding, I enjoy:
   <p>这里展示了我最得意的摄影作品：</p>
   
   <!-- 用您实际照片的链接替换下面的URL -->
-  <img src="bird.jpg" width="250" alt="摄影作品 1" />
+  <img src="https://via.placeholder.com/250x150?text=摄影作品+1" width="250" alt="摄影作品 1" />
   
   
 </div>
@@ -138,7 +155,7 @@ When I'm not coding, I enjoy:
   <p>骑行是我编程之外最大的爱好之一：</p>
   
   <!-- 用您实际骑行照片的链接替换下面的URL -->
-  <img src="ride.jpg" width="250" alt="骑行记录 1" />
+  <img src="https://via.placeholder.com/250x150?text=骑行记录+1" width="250" alt="骑行记录 1" />
   
   
   <p><i>我最远骑行100公里，跨越各种地形。</i></p>
