@@ -138,7 +138,7 @@ When I'm not coding, I enjoy:
   <p>骑行是我编程之外最大的爱好之一：</p>
   
   <!-- 用您实际骑行照片的链接替换下面的URL -->
-  <img src="read.jpg" width="250" alt="骑行记录 1" />
+  <img src="ride.jpg" width="250" alt="骑行记录 1" />
   
   
   <p><i>我最远骑行100公里，跨越各种地形。</i></p>
