@@ -61,6 +61,7 @@
 | [Project Cost Estimation Tool](https://github.com/YYYanZZZ/ProjectCost---Project-Cost-Estimation-Tool) | Software project cost estimation platform that helps estimate software development costs. | Java (Spring Boot), JavaScript, CSS |
 | [Testing Alliance Platform](https://github.com/YYYanZZZ/Testing-Alliance-Platform) | Modern login/registration system, featuring cool animation effects and user management functions | Vue 3, Spring Boot, MySQL, JWT |
 | [Music Platform](https://github.com/YYYanZZZ/Music-Platform) | Full-featured music platform with music library management, paid music service, and user management | Java (Spring, MyBatis), MySQL, JSP |
+| [Eleder Care Platform](https://github.com/YYYanZZZ/Elderly-Care-Center-Management-System) | Smart Management Platform for Elderly care centers | Vue 3 ,Spring Cloud ,UniApp |
 
 
   
@@ -123,6 +124,7 @@ When I'm not coding, I enjoy:
 | [项目成本估算工具](https://github.com/YYYanZZZ/ProjectCost---Project-Cost-Estimation-Tool) | 软件项目成本估算平台，帮助估算软件开发成本。 | Java (Spring Boot), JavaScript, CSS |
 | [测盟汇](https://github.com/YYYanZZZ/Testing-Alliance-Platform) | 一个基于 Vue 3 和 Spring Boot 构建的现代化登录/注册系统，具有酷炫的动画效果和完整的用户管理功能。 | Vue 3, Spring Boot, MySQL, JWT |
 | [音乐平台](https://github.com/YYYanZZZ/Music-Platform) | 全功能音乐平台，具有音乐库管理、付费音乐服务和用户管理 | Java (Spring, MyBatis), MySQL, JSP |
+| [颐养中心管理系统](https://github.com/YYYanZZZ/Elderly-Care-Center-Management-System)| 全功能易拓展的之后颐养中心平台(多角色 企业级) | Vue 3 ,Spring Cloud ,UniApp |
 
 ## 📸 摄影作品集
 
